@@ -29,7 +29,7 @@ This workshop addresses the audience interested, but not very familiar with Mach
 * [Eventbrite](https://www.eventbrite.com/e/ai-workshop-with-semiotic-labs-at-house-of-web3-tickets-621205070087)
 * [YouTube livestream recording](https://www.youtube.com/live/R3jebOskbO4?feature=share&t=231)
 
-(sorry, the slides are barely visible on the recording, but hey! here are the [slides](https://github.com/tkornuta-semiotic/2023-05-AI-workshop/blob/main/2023.05_AI_Workshop_with_Semiotic_Labs.pdf)
+(sorry, the slides are barely visible on the recording, but hey! here are the [slides](https://github.com/tkornuta-semiotic/2023-05-AI-workshop/blob/main/2023.05_AI_Workshop_with_Semiotic_Labs.pdf))
 
 # Licensing
 All the code/notebooks are distributed under Apache v2 license.
