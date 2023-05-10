@@ -2,7 +2,7 @@
 ## May 5th 2023
 
 This repository contains materials (notebooks and a presentation) associated with
-"AI Workshop with Semiotic Labs" organized @ Edge&Node's House of Web3 on May 5th 2023.
+"AI Workshop with [Semiotic Labs](https://semiotic.ai/)" organized @ [Edge&Node](https://edgeandnode.com/)'s mindblowing [House of Web3](https://edgeandnode.com/thehouseofweb3/) in [Presidio of San Francisco](https://www.presidio.gov/) on May 5th 2023.
 
 # Abstract
 The workshop will consist of two parts. In the first part we will do a brief introduction, explaining what we understand as intelligence and what artificial intelligence is. We will do a brief history of how AI emerged, we will explain what the domains of AI are and what Machine Learning, Reinforcement Learning and Deep Learning are. We will focus then on the latter, go through some of the most important turning points in the history of Neural Networks, from Rosenblatt’s perceptron up to OpenAI’s ChatGPT that recently became a phenomenon on a global scale. We will summarize the talk by high-lighting selected emerging problems and future research directions.
